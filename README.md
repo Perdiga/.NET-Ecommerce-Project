@@ -1,5 +1,5 @@
 # Short Preview
-![image](https://github.com/TheMehrozKhan/.NET-Ecommerce-Project/assets/103773815/e07db17f-ebbe-4e57-8740-2191f37be201)
+![image (1)](https://github.com/TheMehrozKhan/.NET-Ecommerce-Project/assets/103773815/362c06cd-b435-49fc-8dc7-c74ad52a0216)
 
 # The Ecommerce Project
 
