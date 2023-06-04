@@ -1,5 +1,4 @@
 # The Ecommerce Project
-![enlarge_MEH_ROZ](https://github.com/TheMehrozKhan/.NET-Ecommerce-Project/assets/103773815/3fe182b6-3e80-455d-b402-08f289ae4ab6)
 
 👋 Welcome to the Awesome Ecommerce Project! This is a powerful and feature-rich ecommerce web application built with passion and attention to detail. In this project, we aimed to create a seamless online shopping experience with a wide range of functionalities and stunning design.
 
