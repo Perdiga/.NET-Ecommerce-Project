@@ -2,6 +2,12 @@
 
 👋 Welcome to the Awesome Ecommerce Project! This is a powerful and feature-rich ecommerce web application built with passion and attention to detail. In this project, we aimed to create a seamless online shopping experience with a wide range of functionalities and stunning design.
 
+## Required Files
+
+📁 There is the Database File of this Project Install this Database into your SQL Server & Then Enjoy This full Fledged Application:
+https://bit.ly/43mFhuQ
+
+
 ## Features
 
 ✨ Product Catalog: Browse through our extensive product catalog and discover a wide variety of items. From electronics to fashion, we've got something for everyone.
