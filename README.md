@@ -1,4 +1,4 @@
-# Preview
+# Short Preview
 ![screencapture-localhost-44336-2023-06-04-21_24_15](https://github.com/TheMehrozKhan/.NET-Ecommerce-Project/assets/103773815/ee327e36-69ec-4ad6-8568-51945c915d0d)
 
 
