@@ -30,7 +30,7 @@
 
 ## Feedback and Contributions
 
-🙌 We value your feedback and encourage contributions from the open-source community. If you have any suggestions, ideas for improvement, or encounter any issues, please don't hesitate to raise an issue or submit a pull request. Together, we can make this project even better!
+🙌 I value your feedback and encourage contributions from the open-source community. If you have any suggestions, ideas for improvement, or encounter any issues, please don't hesitate to raise an issue or submit a pull request. Together, we can make this project even better!
 
 👏 Thank you for taking the time to explore My Awesome Ecommerce Project. We hope you find it useful and that it inspires you in your own ecommerce endeavors😊.
 
