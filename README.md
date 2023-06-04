@@ -1,4 +1,4 @@
-# Awesome Ecommerce Project
+# The Ecommerce Project
 
 👋 Welcome to the Awesome Ecommerce Project! This is a powerful and feature-rich ecommerce web application built with passion and attention to detail. In this project, we aimed to create a seamless online shopping experience with a wide range of functionalities and stunning design.
 
